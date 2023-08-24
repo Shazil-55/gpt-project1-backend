@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Role" ALTER COLUMN "reply" SET DEFAULT 'false',
+ALTER COLUMN "reply" SET DATA TYPE TEXT;
